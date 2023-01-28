@@ -16,5 +16,5 @@
 <br>
 
 ### With Obfuscation
-![obs](./imgs/obs.png "obfuscation")
+![obs](./imgs/obfuscation.png "obfuscation")
 Btw that skajptls is my project, its just for copyright
