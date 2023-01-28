@@ -1,4 +1,4 @@
-# Python Obsfucator
+# Python Obfuscator
 ### by DeadSkajp#5906
 <br><br>
 - Obsfucates into unreadable text
@@ -10,11 +10,11 @@
 
 <br>
 
-### No Obsfucation
-![No obs](./imgs/noneobs.png "No obsfucation")
+### No Obfuscation
+![No obs](./imgs/noneobs.png "No obfuscation")
 
 <br>
 
-### With Obsfucation
-![obs](./imgs/obs.png "obsfucation")
+### With Obfuscation
+![obs](./imgs/obs.png "obfuscation")
 Btw that skajptls is my project, its just for copyright
