@@ -1,5 +1,5 @@
 
-########## obsfuscation | by DeadSkajp#5906 ###########
+########## obfuscation | by DeadSkajp#5906 ###########
 #                                                    #
 # Made by: Skajp                                     #
 # Github: https://github.com/SkajpCZ/PyObfuscator    #
