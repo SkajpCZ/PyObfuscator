@@ -4,7 +4,7 @@
 - Obsfucates into unreadable text
 - Bypasses antiviruses
 
-
+<br><br>
 
 # Showcase
 
@@ -17,4 +17,14 @@
 
 ### With Obfuscation
 ![obs](./imgs/obfuscation.png "obfuscation")
-Btw that skajptls is my project, its just for copyright
+
+<br><br>
+
+# Installation
+
+```
+git clone https://github.com/SkajpCZ/PyObfuscator
+cd PyObfuscator
+pip install -r requirements.txt
+python3 Obfuscator.py
+```
