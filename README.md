@@ -1,5 +1,5 @@
 # Python Obfuscator
-### by DeadSkajp#5906
+### by Skajpik#3232
 <br><br>
 - Obsfucates into unreadable text
 - Bypasses antiviruses
